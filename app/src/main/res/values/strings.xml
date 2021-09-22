@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MatrixDemo</string>
+    <string name="app_name">Matrix Samples</string>
+    <string name="unused_string">unused</string>
 </resources>
